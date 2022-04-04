@@ -2,9 +2,13 @@
 - 史上最全事业编备考指南 🔥 
 - 项目持续更新中，你的 star 是我更新的最大动力
 
+</br>
+
 # 备考
 - 这里仅展示备考方案，具体内容分享正在更新中
+- ![](https://github.com/hornhuang/coder2ShiYeBian/blob/main/assets/images/%E5%A4%87%E8%80%83%E6%B5%81%E7%A8%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
+</br>
 
 # LICENSE 版权相关
 - 本项目遵循 GPL 开源协议，详情请参考：[GNU GENERAL PUBLIC LICENSE](https://github.com/hornhuang/coder2ShiYeBian/blob/main/LICENSE)
