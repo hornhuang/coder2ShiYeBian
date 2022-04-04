@@ -3,11 +3,19 @@
 [![Join the chat at https://gitter.im/Ideal-island/coder2ShiYeBian](https://gitter.im/Ideal-island/coder2ShiYeBian.svg)](https://gitter.im/Ideal-island/coder2ShiYeBian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - 史上最全事业编备考指南 🔥 项目持续更新中，你的 star 是我更新的最大动力
+- **什么是事业编？** 事业编制，是指为国家创造或改善生产条件、增进社会福利，满足人民文化、教育、卫生等需要，其经费一般由国家事业费开支的单位所使用的人员编制。
 
 ![](https://github.com/hornhuang/coder2ShiYeBian/blob/main/assets/images/worklifebalance.jpg)
 
-- 996和007工作制对于员工的身体健康都会产生严重威胁，许多人的身体都遭受不住，有的年轻人年纪轻轻就有颈椎病、肝病等。
+- **为什么要考事业编？** 996和007工作制对于员工的身体健康都会产生严重威胁，许多人的身体都遭受不住，有的年轻人年纪轻轻就有颈椎病、肝病等。
 - 但在一些资本家心里并不是什么事，马云也曾说过，他对钱没有兴趣，资本家都是想花最少的钱让员工创造更大的价值。
+- **事业编有哪些优点？** 事业单位相对比较稳定，和一般的企业比少了竞争压力，但是升职一般要靠工作年限，不仅仅是靠能力。
+- 工资固定，收入稳定，工作时间固定，遇到年节什么的还有各种福利，而且保险什么的也多。企业是靠收益来维持企业运做，相对这个来说，机关或者事业单位确实比较稳定。
+
+`
+ps: 还比较好找对象：因为你的工作对来讲比较体面和优越，父母亲朋大都放心。 😏
+内容参考自：[在事业单位工作有什么好处？](https://www.zhihu.com/question/20627275)
+`
 
 ## 996：隐秘而又公开的“痛”
 
@@ -34,6 +42,8 @@
 </br>
 
 # 备考
+- 这里贴一下大家的总结，相比知乎上一堆广告，这里的清晰很多：[如何备考事业单位](https://wukong.toutiao.com/question/6792480132196991246/)
+- 
 - 这里仅展示备考方案，具体内容分享正在更新中
 - ![](https://github.com/hornhuang/coder2ShiYeBian/blob/main/assets/images/%E5%A4%87%E8%80%83%E6%B5%81%E7%A8%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
