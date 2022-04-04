@@ -1,6 +1,6 @@
 # coder2ShiYeBian
 
-[![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Join the chat at https://gitter.im/Ideal-island/coder2ShiYeBian](https://badges.gitter.im/Ideal-island/coder2ShiYeBian.svg)](https://gitter.im/Ideal-island/coder2ShiYeBian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - 史上最全事业编备考指南 🔥 项目持续更新中，你的 star 是我更新的最大动力
 - 996和007工作制对于员工的身体健康都会产生严重威胁，许多人的身体都遭受不住，有的年轻人年纪轻轻就有颈椎病、肝病等。
