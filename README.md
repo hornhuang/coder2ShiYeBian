@@ -1,6 +1,6 @@
 # coder2ShiYeBian
 
-[![Join the chat at https://gitter.im/Ideal-island/coder2ShiYeBian](https://gitter.im/Ideal-island/coder2ShiYeBian.svg)](https://gitter.im/Ideal-island/coder2ShiYeBian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Ideal-island/coder2ShiYeBian](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/Ideal-island/coder2ShiYeBian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - 史上最全事业编备考指南 🔥 项目持续更新中，你的 star 是我更新的最大动力
 - **什么是事业编？** 事业编制，是指为国家创造或改善生产条件、增进社会福利，满足人民文化、教育、卫生等需要，其经费一般由国家事业费开支的单位所使用的人员编制。
