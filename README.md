@@ -1,18 +1,19 @@
 # coder2ShiYeBian
 
-[![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Ideal-island/coder2ShiYeBian](https://gitter.im/Ideal-island/coder2ShiYeBian.svg)](https://gitter.im/Ideal-island/coder2ShiYeBian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - 史上最全事业编备考指南 🔥 项目持续更新中，你的 star 是我更新的最大动力
-- 996和007工作制对于员工的身体健康都会产生严重威胁，许多人的身体都遭受不住，有的年轻人年纪轻轻就有颈椎病、肝病等。
-- 但在一些资本家心里并不是什么事，马云也曾说过，他对钱没有兴趣，资本家都是想花最少的钱让员工创造更大的价值。
 
 ![](https://github.com/hornhuang/coder2ShiYeBian/blob/main/assets/images/worklifebalance.jpg)
 
-#### 996：隐秘而又公开的“痛”
+- 996和007工作制对于员工的身体健康都会产生严重威胁，许多人的身体都遭受不住，有的年轻人年纪轻轻就有颈椎病、肝病等。
+- 但在一些资本家心里并不是什么事，马云也曾说过，他对钱没有兴趣，资本家都是想花最少的钱让员工创造更大的价值。
 
-《劳动法》规定，每位员工每天只需工作8小时，每周工作时长在44小时左右，但是劳动法的规定并不能阻止无良企业的压榨行为，甚至有的企业员工严重缺少睡眠时间。但是对于企业来说，它们并不在乎员工的健康，只关心利益，为了利益去不断剥削员工的剩余价值，以此给企业带来更多经济效益。
+## 996：隐秘而又公开的“痛”
 
-很多公司的招聘要求上说明工作时间弹性安排，听上去以为还行，实际上是需要经常加班，甚至会出现要熬到半夜的情况。伴随就业形势也越来越严峻，部分年轻人向往大城市的生活，只好接受企业的无理由加班。现在的加班现象很常见，但也成为很多人夸耀的对象。长期加班的危害，大家都清楚，不但影响自己的办事效率，还会对自己的健康不利，神经衰弱，严重地还会猝死。
+- 《劳动法》规定，每位员工每天只需工作8小时，每周工作时长在44小时左右，但是劳动法的规定并不能阻止无良企业的压榨行为，甚至有的企业员工严重缺少睡眠时间。但是对于企业来说，它们并不在乎员工的健康，只关心利益，为了利益去不断剥削员工的剩余价值，以此给企业带来更多经济效益。
+
+- 很多公司的招聘要求上说明工作时间弹性安排，听上去以为还行，实际上是需要经常加班，甚至会出现要熬到半夜的情况。伴随就业形势也越来越严峻，部分年轻人向往大城市的生活，只好接受企业的无理由加班。现在的加班现象很常见，但也成为很多人夸耀的对象。长期加班的危害，大家都清楚，不但影响自己的办事效率，还会对自己的健康不利，神经衰弱，严重地还会猝死。
 
 `
 996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
@@ -26,6 +27,8 @@
 [955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
 
 [944.Life](https://github.com/formulahendry/944.Life): 工作 944，生活为先。
+
+内容参考：[“996”已经使人痛苦，现在“715”还要来？员工：还能上班吗？](https://new.qq.com/omn/20210817/20210817A0B3HH00.html)
 `
 
 </br>
