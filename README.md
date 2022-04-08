@@ -42,9 +42,14 @@ ps: 还比较好找对象：因为你的工作对来讲比较体面和优越，�
 
 </br>
 
-# 备考
+# 靠什么？
+
+
+
+</br>
+
+# 如何备考？
 - 这里贴一下大家的总结，相比知乎上一堆广告，这里的清晰很多：[如何备考事业单位](https://wukong.toutiao.com/question/6792480132196991246/)
-- 
 - 这里仅展示备考方案，具体内容分享正在更新中
 - ![](https://github.com/hornhuang/coder2ShiYeBian/blob/main/assets/images/%E5%A4%87%E8%80%83%E6%B5%81%E7%A8%8B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
