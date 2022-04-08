@@ -30,13 +30,13 @@ ps: 还比较好找对象：因为你的工作对来讲比较体面和优越，�
 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
 
 944 工作制：即每天上午 9 点到岗，一直工作到下午 4 点。每周工作 4 天。
+```
 
 [996.ICU](https://github.com/996icu/996.ICU): 工作 996，生病 ICU。
 
 [955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
 
 [944.Life](https://github.com/formulahendry/944.Life): 工作 944，生活为先。
-```
 
 内容参考：[“996”已经使人痛苦，现在“715”还要来？员工：还能上班吗？](https://new.qq.com/omn/20210817/20210817A0B3HH00.html)
 
