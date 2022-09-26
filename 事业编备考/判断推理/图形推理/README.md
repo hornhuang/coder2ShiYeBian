@@ -1,4 +1,4 @@
-# 图形推理
+# [图形推理](https://docs.qq.com/mind/DSU5PUlhuVGdvclJY)
 
 
 
