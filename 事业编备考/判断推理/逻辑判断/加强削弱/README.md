@@ -1,21 +1,24 @@
 # 概念
 
 - 论据：理由、前提
+
 - 论点：结论
 
 - 论证的基本结构：
-  - 线性结构：P1->p2->C
-  - 组合式：
-  - 收敛式：
-  - 发散式：
+
+  ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8c3d61e99c1d4442ba1377866edb62cd~tplv-k3u1fbpfcp-watermark.image?)
 
 
 
 # 加强
 
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e182e443ce8d40a1a523256dd0f8d8e3~tplv-k3u1fbpfcp-watermark.image?)
+
 
 
 # 削弱
+
+
 
 
 
