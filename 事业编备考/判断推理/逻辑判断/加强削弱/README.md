@@ -18,7 +18,7 @@
 
 # 削弱
 
-
+![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e878f99762fc4c2aa6263d20a17b469d~tplv-k3u1fbpfcp-watermark.image?)
 
 
 
@@ -27,6 +27,12 @@
 
 
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7c55df03ee21493a9242cf5fcf054415~tplv-k3u1fbpfcp-watermark.image?)
+
+
+
+# 注意
+
+![image-20221004174058571](/Users/huangyuanhao/Library/Application Support/typora-user-images/image-20221004174058571.png)
 
 
 
