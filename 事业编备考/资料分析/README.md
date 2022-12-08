@@ -1,6 +1,6 @@
 # 一、常见考点&公式
 
-
+就
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8d59e0b5b16c4be78ac14636475de209~tplv-k3u1fbpfcp-watermark.image?)
 
