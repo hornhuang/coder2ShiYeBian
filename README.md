@@ -84,7 +84,7 @@ ps: 还比较好找对象：因为你的工作对来讲比较体面和优越，�
 - 这里也免费分享给大家，希望对大家有用，同样因为是下班后一个人熬夜开发，如果有发现bug，或者好的功能建议，可以通过上面“公考上岸神器”的反馈渠道联系我，我会挤时间帮大家更新~
 - **、最后祝愿大家国考省考，都能成功上岸！金榜题名！** ヾ(◍°∇°◍)ﾉﾞ
 </br>
-![](https://gitee.com/LonglyWolf/drawing/blob/master/coder2gwy/count_down_miniprogram_publicity.png)
+[](https://gitee.com/LonglyWolf/drawing/raw/3aa80f25ba4dca8bff530799df1a1ed881835993/coder2gwy/count_down_miniprogram_publicity.png)
 
 
 </br>
